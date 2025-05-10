@@ -10,7 +10,7 @@ A short explanation of the core Python concepts and code used in simple oTree ap
 
 ---
 
-## 0. Structure
+## Structure
 
 - `settings.py`: governs the entire session, which can consist of multiple apps (games, surveys, etc.).
 - **App**: Apps contain a part of your final experiment, such as a specific game.
