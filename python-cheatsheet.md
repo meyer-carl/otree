@@ -1,6 +1,6 @@
 # oTree Python Cheat-Sheet
 
-A quick reference to the core Python concepts used in our oTree apps, with examples.
+A short explanation of the core Python concepts and code used in simple oTree apps, with examples.
 
 ---
 
