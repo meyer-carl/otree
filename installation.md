@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Installing oTree"
+permalink: /installation/
+---
+
 # Installing oTree with Miniconda
 
 This guide shows you how to install oTree using Miniconda to keep everything cleanly isolated. Even with little or no programming experience, this guide should help you get oTree running within a few minutes.
@@ -8,7 +14,7 @@ This guide shows you how to install oTree using Miniconda to keep everything cle
 
 Miniconda bundles Python plus the conda package manager in one simple installer. Download and install the **latest** version for your OS:
 
-https://www.anaconda.com/docs/getting-started/miniconda/install
+[https://www.anaconda.com/docs/getting-started/miniconda/install](https://www.anaconda.com/docs/getting-started/miniconda/install)
 
 After installing, close and reopen your terminal and verify:
 
@@ -37,7 +43,7 @@ We’ll create a dedicated conda environment so oTree and its dependencies don�
    conda update python
    ```
    More on managing Python versions:
-   https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-python.html
+   [https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-python.html](https://docs.conda.io/projects/conda/en/stable/user-guide/tasks/manage-python.html)
 
 ---
 
@@ -84,7 +90,7 @@ conda env list
 
 ## 5. Setting Up VS Code
 
-1. **Download & install** from https://code.visualstudio.com/  
+1. **Download & install** from [https://code.visualstudio.com/](https://code.visualstudio.com/)
 2. **Open** VS Code → Extensions (⇧⌘X / Ctrl+Shift+X) → search “Python” → install Microsoft’s.  
 3. **Select your interpreter**:
    - Open Command Palette (⇧⌘P / Ctrl+Shift+P) → **Python: Select Interpreter** → choose `otree_env`’s Python  
@@ -107,5 +113,5 @@ conda env list
 
 ## 7. Helpful Links
 
-- oTree Documentation: https://otree.readthedocs.io/en/latest/  
-- Conda Cheat Sheet: https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html  
+- oTree Documentation: [https://otree.readthedocs.io/en/latest/](https://otree.readthedocs.io/en/latest/)
+- Conda Cheat Sheet: [https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)

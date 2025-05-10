@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Python Cheat Sheet"
+permalink: /python-cheatsheet/
+---
+
 # oTree Python Cheat-Sheet
 
 A short explanation of the core Python concepts and code used in simple oTree apps, with examples.

@@ -1,0 +1,6 @@
+- title: "Home"
+  url: "/"
+- title: "Install Guide"
+  url: "/installation/"
+- title: "Python Cheat Sheet"
+  url: "/python-cheatsheet/"
